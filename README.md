@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🐘 &nbsp; <a rel="me" href="https://twit.social/@Findarato">Mastodon</a>
+🐘 &nbsp; <a href="https://twit.social/@Findarato" rel="me">Mastodon</a>
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
