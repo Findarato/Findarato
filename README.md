@@ -3,8 +3,10 @@
 <!-- <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2> -->
 
 ## 👋 &nbsp;My Name is Joe and I like things
+I am a 1st Don in Taekwondo working on my 2nd. You did not see this because I am a ninja!
 
 ### 👨🏻‍💻 &nbsp;About Me
+![TUS3VHW3T-UV26HH3C0-bd4f4d6f1f66-512](https://github.com/user-attachments/assets/f3d7b9dc-1c8a-418b-a2b7-db652d34deea)
 
 🐘 &nbsp; <a href="https://twit.social/@Findarato" rel="me">Mastodon</a>
 
